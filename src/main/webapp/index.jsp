@@ -8,5 +8,7 @@
 <h1><%= "Identification" %></h1>
 <br/>
 <a href="identification.html">Identification</a>
+<br><br>
+<a href="saisie.jsp">Calculatrice</a>
 </body>
 </html>
