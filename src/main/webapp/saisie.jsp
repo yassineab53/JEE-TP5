@@ -22,6 +22,15 @@
                <br><br>
                <button type="submit">Calculer</button>
            </form>
+            <br>
+               <%
+                   String message = (String) request.getAttribute("message");
+                   if (message != null) {
+               %>
+                   <p style="color: red;"><%= message %></p>
+               <%
+                   }
+               %>
 
   </body>
 </html>
