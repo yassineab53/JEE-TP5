@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JSP - Hello World</title>
+  <title>JSP--Identification</title>
 </head>
 <body>
-<h1><%= "Hello World!" %></h1>
+<h1><%= "Identification" %></h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="identification.html">Identification</a>
 </body>
 </html>
